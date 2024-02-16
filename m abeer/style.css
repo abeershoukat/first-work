@@ -1,0 +1,23 @@
+.bd{
+    background-color: rgba(177, 235, 18, 0.788);
+}
+.main nav{
+    background-image:c:\Users\Lab-01\Desktop\competition\images\download (6).jfif ;
+}
+.ab1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    padding: 50px 50px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}    
